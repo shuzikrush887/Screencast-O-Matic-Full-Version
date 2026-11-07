@@ -256,4 +256,4 @@ This repository serves as the official landing page for Screencast-O-Matic. The 
 **Get the most recent version of Screencast-O-Matic today!**
 
 ---
-**Last updated:** 2026-11-06 21:13:05 UTC
+**Last updated:** 2026-11-07 01:31:24 UTC
